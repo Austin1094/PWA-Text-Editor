@@ -1,6 +1,8 @@
 # PWA-Text-Editor
 
-![Screenshot] ()
+![Screenshot](./client/src/images/main.png)
+
+![Screenshot](./client/src/images/welcome.png)
 
 Link:
 
